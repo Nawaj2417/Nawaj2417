@@ -3,9 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Nawaj2417&color=blue&style=flat-square)
 
 ## 🚀 About Me
-- 🌱 I’m currently learning **Data Science with Generative AI** and aiming to become a **Data Scientist**.
-- 👨‍💻 I enjoy working on **frontend** and **backend** development using frameworks like **Next.js**, **React.js**, and **Django**.
-- 🌍 I also have experience with database management systems like **PostgreSQL**, **MongoDB**, and **Firebase**.
+Hi there! 👋 I'm a passionate software engineer with over **2 years of experience**, currently working on exciting projects in **Data Science** and **Generative AI**.
 
 ### 🎥 My YouTube Channel
 - **[Brokly Master](https://www.youtube.com/@broklymaster)**: I create tutorials on:
